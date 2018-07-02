@@ -13,7 +13,7 @@ _The August DCPPC workshop will be held in Chicago, IL on August 27-28 in the Eq
 - [Attendees](./attendees.md) - A list of attendees sorted by team and first name
 - [Agenda](./agenda.md) - A detailed agenda
 - [Code of conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md) - All members of the Commons are expected to follow the Code of Conduct.
-- [Directions and parking](./directions.md)
+- [Directions from airports](./directions.md)
 - [Reimbursements](./reimbursements.md) - details and a reimbursement form
 - [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
 
