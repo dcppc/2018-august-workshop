@@ -9,7 +9,7 @@ _The August DCPPC workshop will be held in Chicago, IL on August 27-28 in the Eq
 
 ### Quick Links
 
-- [Registration](https://ti.to/dcppc/2018-august-workshop) Please note that registration is required to attend
+- [Registration](https://ti.to/dcppc/august-dcppc-workshop) Please note that registration is required to attend
 - [Attendees](./attendees.md) - A list of attendees sorted by team and first name
 - [Agenda](./agenda.md) - A detailed agenda
 - [Code of conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md) - All members of the Commons are expected to follow the Code of Conduct.
@@ -49,6 +49,6 @@ Four recommended hotels in the area include:
     - Phone: (312) 464-1000
 
 ### Childcare
-We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. Please contact [Team Copper](dcppc.inbox@gmail.com ) if you have specific questions or concerns related to childcare. 
+We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. Please contact [Team Copper](dcppc.inbox@gmail.com) if you have specific questions or concerns related to childcare. 
 
 
