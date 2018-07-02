@@ -29,22 +29,22 @@ The main conference room accommodates the 60 people. Breakout rooms will be loca
 Four recommended hotels in the area include:
 
 - [Chicago Marriott Downtown Magnificent Mile](https://www.marriott.com/hotels/travel/chidt-chicago-marriott-downtown-magnificent-mile/) 
-    - Price: $189
+    - Price: ~ $189
     - Address: 540 N Michigan Ave, Chicago, IL 60611
     - Phone: (312) 836-0100
  
 - [Embassy Suites by Hilton Chicago Downtown Magnificent Mile](http://embassysuites3.hilton.com/en/hotels/illinois/embassy-suites-by-hilton-chicago-downtown-magnificent-mile-CHIREES/index.html) 
-    - Price: $199
+    - Price: ~ $199
     - Address: 511 N Columbus Dr, Chicago, IL 60611
     - Phone: (312) 836-5900
  
 - [InterContinental Chicago Magnificent Mile](https://www.icchicagohotel.com) 
-    - Price: $200
+    - Price: ~ $200
     - Address: 505 N Michigan Ave, Chicago, IL 60611
     - Phone: (312) 944-4100
  
 - [Sheraton Grand Chicago](http://www.sheratonchicago.com)
-    - Price: $180
+    - Price: ~ $180
     - Address: 301 E North Water St, Chicago, IL 60611
     - Phone: (312) 464-1000
 
