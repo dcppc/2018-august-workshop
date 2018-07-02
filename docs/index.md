@@ -18,7 +18,7 @@ _The August DCPPC workshop will be held in Chicago, IL on August 27-28 in the Eq
 - [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
 
 
-### About the venue
+#### About the venue
 
 The meeting venue is at [401 N. Michigan in the “The Equitable Building”](https://www.google.com/maps/place/Equitable+Building,+401+N+Michigan+Ave,+Chicago,+IL+60611/data=!4m2!3m1!1s0x880e2caeb090f199:0x59416c1cc80ae2b7?sa=X&ved=0ahUKEwj7i_3umIHcAhXpg1QKHf8mDD8Q8gEIKDAA).  
 
