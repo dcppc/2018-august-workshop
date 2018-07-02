@@ -24,7 +24,7 @@ The meeting venue is at [401 N. Michigan in the “The Equitable Building”](ht
 
 The main conference room accommodates the 60 people. Breakout rooms will be located on various floors, all of which are accessible by elevator.
 
-### Area Hotels
+#### Area Hotels
 
 Four recommended hotels in the area include:
 
@@ -48,7 +48,7 @@ Four recommended hotels in the area include:
     - Address: 301 E North Water St, Chicago, IL 60611
     - Phone: (312) 464-1000
 
-### Childcare
+#### Childcare
 We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. Please contact [Team Copper](dcppc.inbox@gmail.com) if you have specific questions or concerns related to childcare. 
 
 
