@@ -64,8 +64,15 @@ Four recommended hotels within walking distance include:
     - Address: 301 E North Water St, Chicago, IL 60611
     - Phone: (312) 464-1000
 
+#### Food and beverages
+
+We will provide refreshments and lunches on August 27-28. 
+On Monday evening, dinner will be served at Fogo de Chao. 
+Team Copper will pay for dinner for DCPPC workshop attendees 
+who are not NIH staff. Meal options at Fogo de Cho range from $28-$55 a person. 
+
 #### Traveling with kids
 
-We know a few people are travelling with children and spouses. If you would like to meet up for some family-friendly activities, feel free to share your ideas on our [#life-with-kids slack channel](https://nih-dcppc.slack.com/messages/CBF841PQW/details/?).
+We know a few people are travelling with children and spouses. If you would like to meet up for some family-friendly activities, feel free to share your ideas on our [#life-with-kids slack channel](https://nih-dcppc.slack.com/messages/CBF841PQW/details/?). We will provide suggestions for excursions closer to the workshop.
 
 
