@@ -5,7 +5,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "Rakefile", "changelog.md"]
 highlighter: rouge
 
-title : August 2018 DCPPC Workshop
+title : August 2018 DCPPC Workshop Homepage
 author : 
   name : Data Commons Pilot Phase Consortium
 
