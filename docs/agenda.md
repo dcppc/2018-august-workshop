@@ -13,7 +13,7 @@ In order to have a finalize agenda at the start of the workshop, please submit b
 
 As always, the lightning talks will be [broadcast and recorded via Zoom](https://zoom.us/j/364678101). Requests for Zoom breakout sessions can be made directly in the related issue, communicated over [Slack](http://bit.ly/DCPPCslack), or via email to <dcppc.inbox@gmail.com>.
 
-## Workshop Day 1: August 27, 2018 
+## Workshop Day 1: Monday, August 27, 2018 
 
 *[Link to Google Drive folder for talks and notes](http://bit.ly/AugustGoogleDrive)*
 
@@ -32,7 +32,7 @@ As always, the lightning talks will be [broadcast and recorded via Zoom](https:/
 
 Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_ 
 
-## Workshop Day 2: August 27, 2018 
+## Workshop Day 2: Tuesday, August 28, 2018 
 
 *[Link to Google Drive folder for talks and notes](http://bit.ly/AugustGoogleDrive)*
 
