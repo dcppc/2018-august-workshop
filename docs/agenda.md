@@ -1,7 +1,7 @@
 ---
 layout: page
-title: August 2018 DCPPC Workshop 
-tagline: Agenda
+title: August 2018 DCPPC Workshop Agenda
+tagline: August 27-28, Chicago, IL
 
 ---
 
@@ -13,7 +13,7 @@ In order to have a finalize agenda at the start of the workshop, please submit b
 
 As always, the lightning talks will be [broadcast and recorded via Zoom](https://zoom.us/j/364678101). Requests for Zoom breakout sessions can be made directly in the related issue, communicated over [Slack](http://bit.ly/DCPPCslack), or via email to <dcppc.inbox@gmail.com>.
 
-## Workshop Day 1 
+## Workshop Day 1: August 27, 2018 
 
 *[Link to Google Drive folder for talks and notes](http://bit.ly/AugustGoogleDrive)*
 
@@ -32,7 +32,7 @@ As always, the lightning talks will be [broadcast and recorded via Zoom](https:/
 
 Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_ 
 
-## Workshop Day 2
+## Workshop Day 2: August 27, 2018 
 
 *[Link to Google Drive folder for talks and notes](http://bit.ly/AugustGoogleDrive)*
 
@@ -49,3 +49,7 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 - 16:15 - Closing remarks
 - 16:30 - End
  
+
+## C4 Meeting: August 29, 2018 
+
+This half-day meeting for the Commons Consortium Coordinating Committee (C4) is a closed session. For information, please contact Jen Yttri.
