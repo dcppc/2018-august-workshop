@@ -5,7 +5,7 @@ tagline: Attendees
 
 ---
 
-*The following information was last updated on Aug 6, 2018.*
+*The following information was last updated on Aug 8, 2018.*
 
 ### List of attendees, sorted by team and first name
 
