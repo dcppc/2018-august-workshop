@@ -30,49 +30,51 @@ tagline: Attendees
     ## 18        Copper          Keith Bilafer
     ## 19        Copper        Meredith Gamble
     ## 20        Copper           Rayna Harris
-    ## 21        Copper               S. Edrie
-    ## 22        Copper     Sasha Wait Zaranek
-    ## 23 Data Stewards            Ben Heavner
-    ## 24 Data Stewards           Jared Nedzel
-    ## 25 Data Stewards           Jeff De Pons
-    ## 26 Data Stewards         Jennifer Smith
-    ## 27 Data Stewards         Mary Shimoyama
-    ## 28 Data Stewards            Nathan Dunn
-    ## 29 Data Stewards     Stephanie Gogarten
-    ## 30        Helium    Adam Louis Bartimmo
-    ## 31        Helium    Ashok Krishnamurthy
-    ## 32        Helium        Claris Castillo
-    ## 33        Helium           Kevin Wilson
-    ## 34        Helium          Kira Bradford
-    ## 35        Helium          Rachel Spahnn
-    ## 36        Helium            Ray Idaszak
-    ## 37        Helium      Vroselyn Benjamin
-    ## 38      Hydrogen             Ari Berman
-    ## 39      Hydrogen               Ian Fore
-    ## 40      Hydrogen            Joanna Chau
-    ## 41      Hydrogen            John Morgan
-    ## 42      Hydrogen      Kristen Cleveland
-    ## 43      Hydrogen            Lora Kutkat
-    ## 44      Hydrogen             Nick Weber
-    ## 45      Hydrogen           Saul Kravitz
-    ## 46      Hydrogen          Simon Twigger
-    ## 47      Hydrogen         Stephen Sherry
-    ## 48      Hydrogen valentina di francesco
-    ## 49      Nitrogen             Avi Maayan
-    ## 50      Nitrogen          Daniel Clarke
-    ## 51      Nitrogen    Megan Wojciechowicz
-    ## 52      Nitrogen         Sherry Jenkins
-    ## 53      Nitrogen       Zachary Flamholz
-    ## 54        Oxygen         Elizabeth Bell
-    ## 55        Oxygen                 Hua Xu
-    ## 56    Phosphorus          Anup Mahurkar
-    ## 57    Phosphorus             Bob Carter
-    ## 58        Sodium         Daniel S. Katz
-    ## 59        Sodium          Martin Fenner
-    ## 60        Sodium     Sarala Wimalaratne
-    ## 61         Xenon            Alison Leaf
-    ## 62         Xenon      Charlotte Whicher
-    ## 63         Xenon           Sarper Avcil
+    ## 21        Copper         Rebecca Calisi
+    ## 22        Copper               S. Edrie
+    ## 23        Copper     Sasha Wait Zaranek
+    ## 24 Data Stewards            Ben Heavner
+    ## 25 Data Stewards           Jared Nedzel
+    ## 26 Data Stewards           Jeff De Pons
+    ## 27 Data Stewards         Jennifer Smith
+    ## 28 Data Stewards         Mary Shimoyama
+    ## 29 Data Stewards            Nathan Dunn
+    ## 30 Data Stewards     Stephanie Gogarten
+    ## 31        Helium    Adam Louis Bartimmo
+    ## 32        Helium    Ashok Krishnamurthy
+    ## 33        Helium        Claris Castillo
+    ## 34        Helium           Kevin Wilson
+    ## 35        Helium          Kira Bradford
+    ## 36        Helium          Rachel Spahnn
+    ## 37        Helium            Ray Idaszak
+    ## 38        Helium      Vroselyn Benjamin
+    ## 39      Hydrogen             Ari Berman
+    ## 40      Hydrogen               Ian Fore
+    ## 41      Hydrogen            Joanna Chau
+    ## 42      Hydrogen            John Morgan
+    ## 43      Hydrogen      Kristen Cleveland
+    ## 44      Hydrogen            Lora Kutkat
+    ## 45      Hydrogen             Nick Weber
+    ## 46      Hydrogen           Saul Kravitz
+    ## 47      Hydrogen          Simon Twigger
+    ## 48      Hydrogen         Stephen Sherry
+    ## 49      Hydrogen valentina di francesco
+    ## 50      Nitrogen             Avi Maayan
+    ## 51      Nitrogen          Daniel Clarke
+    ## 52      Nitrogen    Megan Wojciechowicz
+    ## 53      Nitrogen         Sherry Jenkins
+    ## 54      Nitrogen       Zachary Flamholz
+    ## 55        Oxygen         Elizabeth Bell
+    ## 56        Oxygen                 Hua Xu
+    ## 57    Phosphorus          Anup Mahurkar
+    ## 58    Phosphorus             Bob Carter
+    ## 59        Sodium         Daniel S. Katz
+    ## 60        Sodium          Martin Fenner
+    ## 61        Sodium     Sarala Wimalaratne
+    ## 62        Sodium              Tim Clark
+    ## 63         Xenon            Alison Leaf
+    ## 64         Xenon      Charlotte Whicher
+    ## 65         Xenon           Sarper Avcil
 
 ### Overview of particpants per team
 
@@ -80,12 +82,12 @@ tagline: Attendees
     ## 1          Argon  5
     ## 2        Calcium  7
     ## 3         Carbon  2
-    ## 4         Copper  8
+    ## 4         Copper  9
     ## 5  Data Stewards  7
     ## 6         Helium  8
     ## 7       Hydrogen 11
     ## 8       Nitrogen  5
     ## 9         Oxygen  2
     ## 10    Phosphorus  2
-    ## 11        Sodium  3
+    ## 11        Sodium  4
     ## 12         Xenon  3
