@@ -25,56 +25,58 @@ tagline: Attendees
     ## 13        Carbon          Jessica Lyons
     ## 14        Carbon          Paul Avillach
     ## 15        Copper     Amanda Charbonneau
-    ## 16        Copper           Charles Reid
-    ## 17        Copper          Jeremy Walter
-    ## 18        Copper          Keith Bilafer
-    ## 19        Copper        Meredith Gamble
-    ## 20        Copper           Rayna Harris
-    ## 21        Copper         Rebecca Calisi
-    ## 22        Copper               S. Edrie
-    ## 23        Copper     Sasha Wait Zaranek
-    ## 24 Data Stewards            Ben Heavner
-    ## 25 Data Stewards           Jared Nedzel
-    ## 26 Data Stewards           Jeff De Pons
-    ## 27 Data Stewards         Jennifer Smith
-    ## 28 Data Stewards         Mary Shimoyama
-    ## 29 Data Stewards            Nathan Dunn
-    ## 30 Data Stewards     Stephanie Gogarten
-    ## 31        Helium    Adam Louis Bartimmo
-    ## 32        Helium    Ashok Krishnamurthy
-    ## 33        Helium        Claris Castillo
-    ## 34        Helium           Kevin Wilson
-    ## 35        Helium          Kira Bradford
-    ## 36        Helium          Rachel Spahnn
-    ## 37        Helium            Ray Idaszak
-    ## 38        Helium      Vroselyn Benjamin
-    ## 39      Hydrogen             Ari Berman
-    ## 40      Hydrogen               Ian Fore
-    ## 41      Hydrogen            Joanna Chau
-    ## 42      Hydrogen            John Morgan
-    ## 43      Hydrogen      Kristen Cleveland
-    ## 44      Hydrogen            Lora Kutkat
-    ## 45      Hydrogen             Nick Weber
-    ## 46      Hydrogen           Saul Kravitz
-    ## 47      Hydrogen          Simon Twigger
-    ## 48      Hydrogen         Stephen Sherry
-    ## 49      Hydrogen valentina di francesco
-    ## 50      Nitrogen             Avi Maayan
-    ## 51      Nitrogen          Daniel Clarke
-    ## 52      Nitrogen    Megan Wojciechowicz
-    ## 53      Nitrogen         Sherry Jenkins
-    ## 54      Nitrogen       Zachary Flamholz
-    ## 55        Oxygen         Elizabeth Bell
-    ## 56        Oxygen                 Hua Xu
-    ## 57    Phosphorus          Anup Mahurkar
-    ## 58    Phosphorus             Bob Carter
-    ## 59        Sodium         Daniel S. Katz
-    ## 60        Sodium          Martin Fenner
-    ## 61        Sodium     Sarala Wimalaratne
-    ## 62        Sodium              Tim Clark
-    ## 63         Xenon            Alison Leaf
-    ## 64         Xenon      Charlotte Whicher
-    ## 65         Xenon           Sarper Avcil
+    ## 16        Copper               Ben Carr
+    ## 17        Copper           Charles Reid
+    ## 18        Copper          Jeremy Walter
+    ## 19        Copper          Keith Bilafer
+    ## 20        Copper        Meredith Gamble
+    ## 21        Copper           Rayna Harris
+    ## 22        Copper         Rebecca Calisi
+    ## 23        Copper               S. Edrie
+    ## 24        Copper     Sasha Wait Zaranek
+    ## 25 Data Stewards            Ben Heavner
+    ## 26 Data Stewards           Jared Nedzel
+    ## 27 Data Stewards           Jeff De Pons
+    ## 28 Data Stewards         Jennifer Smith
+    ## 29 Data Stewards         Mary Shimoyama
+    ## 30 Data Stewards            Nathan Dunn
+    ## 31 Data Stewards     Stephanie Gogarten
+    ## 32        Helium    Adam Louis Bartimmo
+    ## 33        Helium    Ashok Krishnamurthy
+    ## 34        Helium        Claris Castillo
+    ## 35        Helium           Kevin Wilson
+    ## 36        Helium          Kira Bradford
+    ## 37        Helium          Rachel Spahnn
+    ## 38        Helium            Ray Idaszak
+    ## 39        Helium      Vroselyn Benjamin
+    ## 40      Hydrogen             Ari Berman
+    ## 41      Hydrogen               Ian Fore
+    ## 42      Hydrogen          Jeff Erickson
+    ## 43      Hydrogen            Joanna Chau
+    ## 44      Hydrogen            John Morgan
+    ## 45      Hydrogen      Kristen Cleveland
+    ## 46      Hydrogen            Lora Kutkat
+    ## 47      Hydrogen             Nick Weber
+    ## 48      Hydrogen           Saul Kravitz
+    ## 49      Hydrogen          Simon Twigger
+    ## 50      Hydrogen         Stephen Sherry
+    ## 51      Hydrogen valentina di francesco
+    ## 52      Nitrogen             Avi Maayan
+    ## 53      Nitrogen          Daniel Clarke
+    ## 54      Nitrogen    Megan Wojciechowicz
+    ## 55      Nitrogen         Sherry Jenkins
+    ## 56      Nitrogen       Zachary Flamholz
+    ## 57        Oxygen         Elizabeth Bell
+    ## 58        Oxygen                 Hua Xu
+    ## 59    Phosphorus          Anup Mahurkar
+    ## 60    Phosphorus             Bob Carter
+    ## 61        Sodium         Daniel S. Katz
+    ## 62        Sodium          Martin Fenner
+    ## 63        Sodium     Sarala Wimalaratne
+    ## 64        Sodium              Tim Clark
+    ## 65         Xenon            Alison Leaf
+    ## 66         Xenon      Charlotte Whicher
+    ## 67         Xenon           Sarper Avcil
 
 ### Overview of particpants per team
 
@@ -82,10 +84,10 @@ tagline: Attendees
     ## 1          Argon  5
     ## 2        Calcium  7
     ## 3         Carbon  2
-    ## 4         Copper  9
+    ## 4         Copper 10
     ## 5  Data Stewards  7
     ## 6         Helium  8
-    ## 7       Hydrogen 11
+    ## 7       Hydrogen 12
     ## 8       Nitrogen  5
     ## 9         Oxygen  2
     ## 10    Phosphorus  2
