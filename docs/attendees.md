@@ -5,7 +5,7 @@ tagline: Attendees
 
 ---
 
-*The following information was last updated on Aug 9, 2018.*
+*The following information was last updated on Aug 12, 2018.*
 
 ### List of attendees, sorted by team and first name
 
@@ -16,45 +16,45 @@ tagline: Attendees
     ## 4          Argon             Kyle Chard
     ## 5          Argon            Rick Wagner
     ## 6        Calcium         Brian O'Connor
-    ## 7        Calcium             Jac Flamig
-    ## 8        Calcium        Kristin Anderka
-    ## 9        Calcium        Pauline Ribeyre
-    ## 10       Calcium        Robert Grossman
-    ## 11       Calcium          Walter Shands
-    ## 12       Calcium            Yajing Tang
-    ## 13        Carbon          Jessica Lyons
-    ## 14        Carbon          Paul Avillach
-    ## 15        Copper     Amanda Charbonneau
-    ## 16        Copper               Ben Carr
-    ## 17        Copper           Charles Reid
-    ## 18        Copper          Jeremy Walter
-    ## 19        Copper          Keith Bilafer
-    ## 20        Copper        Meredith Gamble
-    ## 21        Copper           Rayna Harris
-    ## 22        Copper         Rebecca Calisi
-    ## 23        Copper               S. Edrie
-    ## 24        Copper     Sasha Wait Zaranek
-    ## 25 Data Stewards            Ben Heavner
-    ## 26 Data Stewards           Jared Nedzel
-    ## 27 Data Stewards           Jeff De Pons
-    ## 28 Data Stewards         Jennifer Smith
-    ## 29 Data Stewards         Mary Shimoyama
-    ## 30 Data Stewards            Nathan Dunn
-    ## 31 Data Stewards     Stephanie Gogarten
-    ## 32        Helium    Adam Louis Bartimmo
-    ## 33        Helium    Ashok Krishnamurthy
-    ## 34        Helium        Claris Castillo
-    ## 35        Helium           Kevin Wilson
-    ## 36        Helium          Kira Bradford
-    ## 37        Helium          Rachel Spahnn
-    ## 38        Helium            Ray Idaszak
-    ## 39        Helium      Vroselyn Benjamin
-    ## 40      Hydrogen             Ari Berman
-    ## 41      Hydrogen               Ian Fore
-    ## 42      Hydrogen          Jeff Erickson
-    ## 43      Hydrogen            Joanna Chau
-    ## 44      Hydrogen            John Morgan
-    ## 45      Hydrogen      Kristen Cleveland
+    ## 7        Calcium          David Siedzik
+    ## 8        Calcium             Jac Flamig
+    ## 9        Calcium        Kristin Anderka
+    ## 10       Calcium        Pauline Ribeyre
+    ## 11       Calcium        Robert Grossman
+    ## 12       Calcium          Walter Shands
+    ## 13       Calcium            Yajing Tang
+    ## 14        Carbon          Jessica Lyons
+    ## 15        Carbon          Paul Avillach
+    ## 16        Copper     Amanda Charbonneau
+    ## 17        Copper               Ben Carr
+    ## 18        Copper           Charles Reid
+    ## 19        Copper          Jeremy Walter
+    ## 20        Copper          Keith Bilafer
+    ## 21        Copper        Meredith Gamble
+    ## 22        Copper           Rayna Harris
+    ## 23        Copper         Rebecca Calisi
+    ## 24        Copper               S. Edrie
+    ## 25        Copper     Sasha Wait Zaranek
+    ## 26 Data Stewards    Albert Vernon Smith
+    ## 27 Data Stewards            Ben Heavner
+    ## 28 Data Stewards           Jared Nedzel
+    ## 29 Data Stewards           Jeff De Pons
+    ## 30 Data Stewards         Jennifer Smith
+    ## 31 Data Stewards             Karen Yook
+    ## 32 Data Stewards         Mary Shimoyama
+    ## 33 Data Stewards            Nathan Dunn
+    ## 34 Data Stewards     Stephanie Gogarten
+    ## 35        Helium    Adam Louis Bartimmo
+    ## 36        Helium    Ashok Krishnamurthy
+    ## 37        Helium        Claris Castillo
+    ## 38        Helium           Kevin Wilson
+    ## 39        Helium          Kira Bradford
+    ## 40        Helium          Rachel Spahnn
+    ## 41        Helium            Ray Idaszak
+    ## 42        Helium      Vroselyn Benjamin
+    ## 43      Hydrogen               Ian Fore
+    ## 44      Hydrogen          Jeff Erickson
+    ## 45      Hydrogen            John Morgan
     ## 46      Hydrogen            Lora Kutkat
     ## 47      Hydrogen             Nick Weber
     ## 48      Hydrogen           Saul Kravitz
@@ -82,12 +82,12 @@ tagline: Attendees
 
     ##             Team  n
     ## 1          Argon  5
-    ## 2        Calcium  7
+    ## 2        Calcium  8
     ## 3         Carbon  2
     ## 4         Copper 10
-    ## 5  Data Stewards  7
+    ## 5  Data Stewards  9
     ## 6         Helium  8
-    ## 7       Hydrogen 12
+    ## 7       Hydrogen  9
     ## 8       Nitrogen  5
     ## 9         Oxygen  2
     ## 10    Phosphorus  2
