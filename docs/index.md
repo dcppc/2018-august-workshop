@@ -18,6 +18,10 @@ _The August DCPPC workshop will be held in Chicago, IL on August 27-28 in the Eq
 - [Slack](http://bit.ly/DCPPCslack) - Join the #2018-monthly-workshop channel to connect with other workshop attendees. 
 
 
+### New Section! Tourists activities
+
+Wether you are in town for a few extra days or just one night, [here is a comprehensive list](./tourism.md) of places to see and things to do in Chicago. 
+
 #### About the venue
 
 The meeting venue is at [401 N. Michigan in the “The Equitable Building”](https://www.google.com/maps/place/Equitable+Building,+401+N+Michigan+Ave,+Chicago,+IL+60611/data=!4m2!3m1!1s0x880e2caeb090f199:0x59416c1cc80ae2b7?sa=X&ved=0ahUKEwj7i_3umIHcAhXpg1QKHf8mDD8Q8gEIKDAA).  
