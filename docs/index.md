@@ -20,7 +20,7 @@ _The August DCPPC workshop will be held in Chicago, IL on August 27-28 in the Eq
 
 ### New Section! Tourists activities
 
-Wether you are in town for a few extra days or just one night, [here is a comprehensive list](./tourism.md) of places to see and things to do in Chicago. 
+Whether you are in town for a few extra days or just one night, [here is a comprehensive list](./tourism.md) of places to see and things to do in Chicago. 
 
 #### About the venue
 

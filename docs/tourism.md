@@ -5,7 +5,7 @@ tagline: Tourist Activities in Chicago
 
 ---
 
-### Buildings and Other Tourist Locations
+### Places to see
 
 - [360 Chicago](https://360chicago.com/) - observatory at 875 N. Michigan Ave. (formerly known as The John Hancock Center)
   - Features [Tilt](https://360chicago.com/tilt/) (requires additional ticket purchase)
