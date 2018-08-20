@@ -20,8 +20,20 @@ As always, the lightning talks will be [broadcast and recorded via Zoom](https:/
 **Time - Description**
 - 09:00 - Welcome remarks
 - 09:20 - [Day 1 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/1) with [Zoom for remote participation](https://zoom.us/j/364678101). Each speaker will have 5 minutes to present and 3 minutes for Q&A.
-- 10:30 - Coffee break (~20 minutes)
-- 10:50 - [Day 1 Lightning talks continuted](https://github.com/dcppc/2018-august-workshop/issues/1) with [Zoom for remote participation](https://zoom.us/j/364678101).
+	- 09:20 Calcium:
+	- 09:29 Data Stewards (AGR):
+	- 09:38 Copper:
+	- 09:47 Argon:
+	- 09:56 Xenon:
+	- 10:05 Phosphorus:
+	- 10:15 Data Stewards (GTEx):
+- 10:30 Coffee break (~20 minutes)	
+	- 10:51 Data Stewards (TOPMed):
+    - 11:00 Oxygen: Lucila re Block chain (10 min + 5 for questions)
+    - 10:15 Sodium:
+	- 10:24 Helium:
+	- 11:33 Carbon:
+	- 11:42 Nitrogen: Avi Ma'ayan
 - 12:00 - Lunch (1 hour)         
 - 13:00 - [Day 1 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+%26+%22breakout+session%22)
 - 14:30 - Coffee break (~20 minutes)
