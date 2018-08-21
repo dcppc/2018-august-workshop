@@ -7,11 +7,7 @@ tagline: August 27-28, Chicago, IL
 
 ### Details
 
-The workshop will take place on the 19th floor of the Equitable building.
-
-In order to have a finalize agenda at the start of the workshop, please submit breakout groups suggestions and sign up to give a talks Friday August 24. You can do so by [opening or commenting on an issue in the workshop Github repository](https://github.com/dcppc/2018-august-workshop/issues). 
-
-As always, the lightning talks will be [broadcast and recorded via Zoom](https://zoom.us/j/364678101). 
+The workshop will take place on the 19th floor of the Equitable building. The lightning talks will be [broadcast and recorded via Zoom](https://zoom.us/j/364678101). 
 
 ### Workshop Day 1: Monday, August 27, 2018 
 
