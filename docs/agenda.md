@@ -5,15 +5,15 @@ tagline: August 27-28, Chicago, IL
 
 ---
 
-## Details
+### Details
 
 The workshop will take place on the 19th floor of the Equitable building.
 
 In order to have a finalize agenda at the start of the workshop, please submit breakout groups suggestions and sign up to give a talks Friday August 24. You can do so by [opening or commenting on an issue in the workshop Github repository](https://github.com/dcppc/2018-august-workshop/issues). 
 
-As always, the lightning talks will be [broadcast and recorded via Zoom](https://zoom.us/j/364678101). Requests for Zoom breakout sessions can be made directly in the related issue, communicated over [Slack](http://bit.ly/DCPPCslack), or via email to <dcppc.inbox@gmail.com>.
+As always, the lightning talks will be [broadcast and recorded via Zoom](https://zoom.us/j/364678101). 
 
-## Workshop Day 1: Monday, August 27, 2018 
+### Workshop Day 1: Monday, August 27, 2018 
 
 *[Link to Google Drive folder for talks and notes](http://bit.ly/AugustGoogleDrive)*
 
@@ -79,13 +79,13 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 - 16:15 - Closing remarks
 - 16:30 - End
 
-## Unassigned breakout groups
+### Unassigned breakout groups
 
 Not all breakout groups have been assigned to a day. These include:
 - [Communication Breakdown](https://github.com/dcppc/2018-august-workshop/issues/9)
 - [KC7: Crosscut Metadata Model Schema and Instances](https://github.com/dcppc/2018-august-workshop/issues/11)
 
 
-## C4 Meeting: August 29, 2018 
+### C4 Meeting: August 29, 2018 
 
 This half-day meeting for the Commons Consortium Coordinating Committee (C4) is a closed session. For information, please contact Jen Yttri.
