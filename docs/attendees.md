@@ -68,13 +68,14 @@ tagline: Attendees
     ## 56        Oxygen                 Hua Xu
     ## 57    Phosphorus          Anup Mahurkar
     ## 58    Phosphorus             Bob Carter
-    ## 59        Sodium         Daniel S. Katz
-    ## 60        Sodium          Martin Fenner
-    ## 61        Sodium     Sarala Wimalaratne
-    ## 62        Sodium              Tim Clark
-    ## 63         Xenon            Alison Leaf
-    ## 64         Xenon      Charlotte Whicher
-    ## 65         Xenon           Sarper Avcil
+    ## 59    Phosphorus             Owen White
+    ## 60        Sodium         Daniel S. Katz
+    ## 61        Sodium          Martin Fenner
+    ## 62        Sodium     Sarala Wimalaratne
+    ## 63        Sodium              Tim Clark
+    ## 64         Xenon            Alison Leaf
+    ## 65         Xenon      Charlotte Whicher
+    ## 66         Xenon           Sarper Avcil
 
 ### Overview of particpants per team
 
@@ -88,6 +89,6 @@ tagline: Attendees
     ## 7       Hydrogen 7
     ## 8       Nitrogen 6
     ## 9         Oxygen 2
-    ## 10    Phosphorus 2
+    ## 10    Phosphorus 3
     ## 11        Sodium 4
     ## 12         Xenon 3

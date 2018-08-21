@@ -36,8 +36,10 @@ As always, the lightning talks will be [broadcast and recorded via Zoom](https:/
 	- 11:42 Nitrogen: Avi Ma'ayan
 - 12:00 - Lunch (1 hour)         
 - 13:00 - [Day 1 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+%26+%22breakout+session%22)
-- 14:30 - Coffee break (~20 minutes)
-- 14:50 - [Day 1 Breakout sessions continued ](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+%26+%22breakout+session%22)
+	- [Learn more about MODs and AGR](https://github.com/dcppc/2018-august-workshop/issues/4)
+	- [All things Auth](https://github.com/dcppc/2018-august-workshop/issues/8) 
+	- [KC2 - GUID creation](https://github.com/dcppc/2018-august-workshop/issues/12)
+	- Additional breakout groups	
 - 16:00 - Breakout session recaps
 - 16:20 - Closing remarks
 - 16:30 - End
@@ -68,13 +70,16 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- 11:44 Xenon:
 - 12:00 -  Lunch (1 hour)         
 - 13:00 - [Day2 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+%26+%22breakout+session%22+)
-- 14:30 - Coffee break (~20 minutes)
-- 14:50 - [Day2 Breakout sessions continued](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+%26+%22breakout+session%22+)
+	- [Learn more about TOPMED](https://github.com/dcppc/2018-august-workshop/issues/5)
+	- [KC6: Getting feedback on the VDS service](https://github.com/dcppc/2018-august-workshop/issues/6) 
+	- [KC2: Schema.org/bioschemas with identifiers.org](https://github.com/dcppc/2018-august-workshop/issues/10)
+	- Additional breakout groups
 - 13:45 - Breakout session recaps
 - 16:05 - [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
 - 16:15 - Closing remarks
 - 16:30 - End
- 
+
+
 
 ## C4 Meeting: August 29, 2018 
 
