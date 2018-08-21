@@ -30,8 +30,8 @@ As always, the lightning talks will be [broadcast and recorded via Zoom](https:/
 - 10:30 Coffee break (~20 minutes)	
 	- 10:51 Data Stewards (TOPMed):
     - 11:00 Oxygen: Lucila re Block chain (10 min + 5 for questions)
-    - 10:15 Sodium:
-	- 10:24 Helium:
+    - 11:15 Sodium:
+	- 11:24 Helium:
 	- 11:33 Carbon:
 	- 11:42 Nitrogen: Avi Ma'ayan
 - 12:00 - Lunch (1 hour)         
