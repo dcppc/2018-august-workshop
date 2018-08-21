@@ -27,7 +27,7 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 	- 10:51 Data Stewards (TOPMed):
     - 11:00 Oxygen: Lucila re Block chain (10 min + 5 for questions)
     - 11:15 Sodium:
-	- 11:24 Helium:
+	- 11:24 Helium: Kira Bradford
 	- 11:33 Carbon:
 	- 11:42 Nitrogen: Avi Ma'ayan
 - 12:00 - Lunch (1 hour)         
@@ -53,7 +53,7 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- 09:19 Sodium:
 	- 09:28 Phosphorus:
 	- 09:37 Data Stewards (TOPMed):
-	- 09:46 Helium:
+	- 09:46 Helium: Ray Idaszak
 	- 09:55 Argon:
 	- 10:04 Data Stewards (AGR):
 	- 10:13 Nitrogen: Denis Torre
@@ -61,7 +61,7 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- 10:50 Copper:
 	- 10:59 Calcium: Bob Grossman
 	- 11:08 Carbon:
-	- 11:26 Oxygen:
+	- 11:26 Oxygen: Hua Xu
 	- 11:35 Data Stewards (GTEx):
 	- 11:44 Xenon:
 - 12:00 -  Lunch (1 hour)         
