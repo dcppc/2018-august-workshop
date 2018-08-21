@@ -79,6 +79,11 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 - 16:15 - Closing remarks
 - 16:30 - End
 
+## Unassigned breakout groups
+
+Not all breakout groups have been assigned to a day. These include:
+- [Communication Breakdown](https://github.com/dcppc/2018-august-workshop/issues/9)
+- [KC7: Crosscut Metadata Model Schema and Instances](https://github.com/dcppc/2018-august-workshop/issues/11)
 
 
 ## C4 Meeting: August 29, 2018 
