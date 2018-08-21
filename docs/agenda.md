@@ -50,8 +50,22 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 
 **Time - Description**
 - 09:00: Welcome remarks
-- 09:20: [Day2 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/2) with [Zoom for remote participation](https://zoom.us/j/364678101). Each speaker will have 5 minutes to present and 3 minutes for Q&A.
-- 10:30 - Coffee break (~20 minutes)
+- 09:10: [Day2 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/2) with [Zoom for remote participation](https://zoom.us/j/364678101). Each speaker will have 5 minutes to present and 3 minutes for Q&A.
+	- 09:10 STRIDES: Nick Webber
+	- 09:19 Sodium:
+	- 09:28 Phosphorus:
+	- 09:37 Data Stewards (TOPMed):
+	- 09:46 Helium:
+	- 09:55 Argon:
+	- 10:04 Data Stewards (AGR):
+	- 10:13 Nitrogen: Denis Torre
+- 10:30 Coffee break
+	- 10:50 Copper:
+	- 10:59 Calcium: Bob Grossman
+	- 11:08 Carbon:
+	- 11:26 Oxygen:
+	- 11:35 Data Stewards (GTEx):
+	- 11:44 Xenon:
 - 12:00 -  Lunch (1 hour)         
 - 13:00 - [Day2 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+%26+%22breakout+session%22+)
 - 14:30 - Coffee break (~20 minutes)
