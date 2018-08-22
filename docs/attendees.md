@@ -5,7 +5,7 @@ tagline: Attendees
 
 ---
 
-*The following information was last updated on Aug 21, 2018.*
+*The following information was last updated on Aug 22, 2018.*
 
 ### List of attendees, sorted by team and first name
 
@@ -40,55 +40,56 @@ tagline: Attendees
     ## 28 Data Stewards           Jeff De Pons
     ## 29 Data Stewards         Jennifer Smith
     ## 30 Data Stewards             Karen Yook
-    ## 31 Data Stewards         Mary Shimoyama
-    ## 32 Data Stewards            Nathan Dunn
-    ## 33 Data Stewards     Stephanie Gogarten
-    ## 34        Helium    Adam Louis Bartimmo
-    ## 35        Helium    Ashok Krishnamurthy
-    ## 36        Helium        Claris Castillo
-    ## 37        Helium            Darius Bost
-    ## 38        Helium           Kevin Wilson
-    ## 39        Helium          Kira Bradford
-    ## 40        Helium          Rachel Spahnn
-    ## 41        Helium            Ray Idaszak
-    ## 42      Hydrogen               Ian Fore
-    ## 43      Hydrogen          Jeff Erickson
-    ## 44      Hydrogen             Nick Weber
-    ## 45      Hydrogen           Saul Kravitz
-    ## 46      Hydrogen          Simon Twigger
-    ## 47      Hydrogen         Stephen Sherry
-    ## 48      Hydrogen valentina di francesco
-    ## 49      Nitrogen             Avi Maayan
-    ## 50      Nitrogen          Daniel Clarke
-    ## 51      Nitrogen            Denis Torre
-    ## 52      Nitrogen    Megan Wojciechowicz
-    ## 53      Nitrogen         Sherry Jenkins
-    ## 54      Nitrogen       Zachary Flamholz
-    ## 55        Oxygen         Elizabeth Bell
-    ## 56        Oxygen                 Hua Xu
-    ## 57    Phosphorus          Anup Mahurkar
-    ## 58    Phosphorus             Bob Carter
-    ## 59    Phosphorus             Owen White
-    ## 60        Sodium         Daniel S. Katz
-    ## 61        Sodium          Martin Fenner
-    ## 62        Sodium     Sarala Wimalaratne
-    ## 63        Sodium              Tim Clark
-    ## 64         Xenon            Alison Leaf
-    ## 65         Xenon      Charlotte Whicher
-    ## 66         Xenon           Sarper Avcil
+    ## 31 Data Stewards               Ken Rice
+    ## 32 Data Stewards         Mary Shimoyama
+    ## 33 Data Stewards            Nathan Dunn
+    ## 34 Data Stewards     Stephanie Gogarten
+    ## 35        Helium    Adam Louis Bartimmo
+    ## 36        Helium    Ashok Krishnamurthy
+    ## 37        Helium        Claris Castillo
+    ## 38        Helium            Darius Bost
+    ## 39        Helium           Kevin Wilson
+    ## 40        Helium          Kira Bradford
+    ## 41        Helium          Rachel Spahnn
+    ## 42        Helium            Ray Idaszak
+    ## 43      Hydrogen               Ian Fore
+    ## 44      Hydrogen          Jeff Erickson
+    ## 45      Hydrogen             Nick Weber
+    ## 46      Hydrogen           Saul Kravitz
+    ## 47      Hydrogen          Simon Twigger
+    ## 48      Hydrogen         Stephen Sherry
+    ## 49      Hydrogen valentina di francesco
+    ## 50      Nitrogen             Avi Maayan
+    ## 51      Nitrogen          Daniel Clarke
+    ## 52      Nitrogen            Denis Torre
+    ## 53      Nitrogen    Megan Wojciechowicz
+    ## 54      Nitrogen         Sherry Jenkins
+    ## 55      Nitrogen       Zachary Flamholz
+    ## 56        Oxygen         Elizabeth Bell
+    ## 57        Oxygen                 Hua Xu
+    ## 58    Phosphorus          Anup Mahurkar
+    ## 59    Phosphorus             Bob Carter
+    ## 60    Phosphorus             Owen White
+    ## 61        Sodium         Daniel S. Katz
+    ## 62        Sodium          Martin Fenner
+    ## 63        Sodium     Sarala Wimalaratne
+    ## 64        Sodium              Tim Clark
+    ## 65         Xenon            Alison Leaf
+    ## 66         Xenon      Charlotte Whicher
+    ## 67         Xenon           Sarper Avcil
 
 ### Overview of particpants per team
 
-    ##             Team n
-    ## 1          Argon 5
-    ## 2        Calcium 9
-    ## 3         Carbon 2
-    ## 4         Copper 8
-    ## 5  Data Stewards 9
-    ## 6         Helium 8
-    ## 7       Hydrogen 7
-    ## 8       Nitrogen 6
-    ## 9         Oxygen 2
-    ## 10    Phosphorus 3
-    ## 11        Sodium 4
-    ## 12         Xenon 3
+    ##             Team  n
+    ## 1          Argon  5
+    ## 2        Calcium  9
+    ## 3         Carbon  2
+    ## 4         Copper  8
+    ## 5  Data Stewards 10
+    ## 6         Helium  8
+    ## 7       Hydrogen  7
+    ## 8       Nitrogen  6
+    ## 9         Oxygen  2
+    ## 10    Phosphorus  3
+    ## 11        Sodium  4
+    ## 12         Xenon  3
