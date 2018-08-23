@@ -35,6 +35,8 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 	- [Learn more about MODs and AGR](https://github.com/dcppc/2018-august-workshop/issues/4)
 	- [All things Auth](https://github.com/dcppc/2018-august-workshop/issues/8) 
 	- [KC2 - GUID creation](https://github.com/dcppc/2018-august-workshop/issues/12)
+	- [Data Commons Communication: Who, how, why, when #9
+](https://github.com/dcppc/2018-august-workshop/issues/9)
 	- Additional breakout groups	
 - 16:00 - Breakout session recaps
 - 16:20 - Closing remarks
@@ -78,9 +80,10 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 ### Unassigned breakout groups
 
 Not all breakout groups have been assigned to a day. These include:
-- [Communication Breakdown](https://github.com/dcppc/2018-august-workshop/issues/9)
 - [KC7: Crosscut Metadata Model Schema and Instances](https://github.com/dcppc/2018-august-workshop/issues/11)
-
+- [KC1 - FAIR assessment of GTEx and GTEx interface to BioJupies](https://github.com/dcppc/2018-august-workshop/issues/13)
+- [DOS service for multi-stack compute](https://github.com/dcppc/2018-august-workshop/issues/14)
+- [Full stacks: What data and where?](https://github.com/dcppc/2018-august-workshop/issues/15)
 
 ### C4 Meeting: August 29, 2018 
 
