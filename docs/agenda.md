@@ -69,7 +69,6 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 - 12:00 -  Lunch (1 hour)         
 - 13:00 - [Day2 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+%26+%22breakout+session%22+)
 	- [Learn more about TOPMED](https://github.com/dcppc/2018-august-workshop/issues/5)
-	- [KC6: Getting feedback on the VDS service](https://github.com/dcppc/2018-august-workshop/issues/6) 
 	- [KC2: Schema.org/bioschemas with identifiers.org](https://github.com/dcppc/2018-august-workshop/issues/10)
 	- Additional breakout groups
 - 13:45 - Breakout session recaps
