@@ -24,7 +24,7 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 	- 10:05 Phosphorus:
 	- 10:15 Data Stewards (GTEx):
 - 10:30 Coffee break (~20 minutes)	
-	- 10:51 Data Stewards (TOPMed):
+	- 10:51 Data Stewards (TOPMed): Ken Rice
     - 11:00 Oxygen: Lucila re Block chain (10 min + 5 for questions)
     - 11:15 Sodium:
 	- 11:24 Helium: Kira Bradford
@@ -33,7 +33,7 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 - 12:00 - Lunch (1 hour)         
 - 13:00 - [Day 1 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+%26+%22breakout+session%22)
 	- [Learn more about MODs and AGR](https://github.com/dcppc/2018-august-workshop/issues/4)
-	- [All things Auth](https://github.com/dcppc/2018-august-workshop/issues/8) 
+	- [All things Auth](https://github.com/dcppc/2018-august-workshop/issues/8). Join remotely: https://renci.zoom.us/j/526710112 
 	- [KC2 - GUID creation](https://github.com/dcppc/2018-august-workshop/issues/12)
 	- [Data Commons Communication: Who, how, why, when #9
 ](https://github.com/dcppc/2018-august-workshop/issues/9)
@@ -83,6 +83,16 @@ Not all breakout groups have been assigned to a day. These include:
 - [KC1 - FAIR assessment of GTEx and GTEx interface to BioJupies](https://github.com/dcppc/2018-august-workshop/issues/13)
 - [DOS service for multi-stack compute](https://github.com/dcppc/2018-august-workshop/issues/14)
 - [Full stacks: What data and where?](https://github.com/dcppc/2018-august-workshop/issues/15)
+
+### Interview questions with Rebecca Calisi
+
+Interview questions (Bonus points for brevity!)
+
+1. We’re nearing the end of phase 1. What unexpected things have emerged? What surprises have there been?
+1. What should be the goals of the next phase of the pilot?
+1. How do you see the Data Commons actually working with respect to partnerships, adding new data sets, adding new features, and so on? What problems do you expect to crop up?
+1. How do you think the Data Commons will affect biomedical researchers, in a practical day-to-day sense? For example, how will R01s change? How will publishing change? How will tenure/promotions change? Will this make more or less work for researchers?
+
 
 ### C4 Meeting: August 29, 2018 
 
