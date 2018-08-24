@@ -33,10 +33,10 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 - 12:00 - Lunch (1 hour)         
 - 13:00 - [Day 1 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+%26+%22breakout+session%22)
 	- [Learn more about MODs and AGR](https://github.com/dcppc/2018-august-workshop/issues/4)
-	- [All things Auth](https://github.com/dcppc/2018-august-workshop/issues/8). Join remotely: <https://renci.zoom.us/j/526710112> 
 	- [KC2 - GUID creation](https://github.com/dcppc/2018-august-workshop/issues/12)
 	- [Data Commons Communication: Who, how, why, when #9
 ](https://github.com/dcppc/2018-august-workshop/issues/9)
+	- [All things Auth](https://github.com/dcppc/2018-august-workshop/issues/8) ![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)  <https://renci.zoom.us/j/526710112> 
 	- Additional breakout groups	
 - 16:00 - Breakout session recaps
 - 16:20 - Closing remarks
