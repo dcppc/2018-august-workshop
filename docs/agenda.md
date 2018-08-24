@@ -15,7 +15,8 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 
 **Time - Description**
 - 09:00 - Welcome remarks
-- 09:20 - [Day 1 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/1) with [Zoom for remote participation](https://zoom.us/j/364678101). Each speaker will have 5 minutes to present and 3 minutes for Q&A.
+- 09:20 - [Day 1 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/1) 
+![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)   at <https://zoom.us/j/364678101>. _Each speaker will have 5 minutes to present and 3 minutes for Q&A._
 	- 09:20 Calcium:
 	- 09:29 Data Stewards (AGR):
 	- 09:38 Copper:
@@ -50,7 +51,8 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 
 **Time - Description**
 - 09:00: Welcome remarks
-- 09:10: [Day2 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/2) with [Zoom for remote participation](https://zoom.us/j/364678101). Each speaker will have 5 minutes to present and 3 minutes for Q&A.
+- 09:10: [Day2 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/2)
+![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)   at <https://zoom.us/j/364678101>. _Each speaker will have 5 minutes to present and 3 minutes for Q&A._
 	- 09:10 STRIDES: Nick Webber
 	- 09:19 Sodium:
 	- 09:28 Phosphorus:
