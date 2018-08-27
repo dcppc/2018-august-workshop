@@ -18,9 +18,8 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 - 09:20 - [Day 1 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/1) 
 ![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)   at <https://zoom.us/j/364678101>. _Each speaker will have 5 minutes to present and 3 minutes for Q&A._
 	- 09:20 Calcium: David Siedzik 
-	- 09:29 Data Stewards (AGR): Mary Shimoyama
 	- 09:38 Copper: Amanda Charbonneau
-	- 09:47 Argon:
+	- 09:47 Argon: Rick Wagner
 	- 09:56 Phosphorus: Robert Carter
 	- 10:05 Data Stewards (GTEx):
 - 10:30 Coffee break (~20 minutes)	
