@@ -21,9 +21,9 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 	- 09:38 Copper: Amanda Charbonneau
 	- 09:47 Argon: Rick Wagner
 	- 09:56 Phosphorus: Robert Carter
-	- 10:05 Data Stewards (GTEx): Jared Nedzel
+	- 10:05 Data Stewards (TOPMed): Ken Rice 
 - 10:30 Coffee break (~20 minutes)	
-	- 10:51 Data Stewards (TOPMed): Ken Rice
+	- 10:51 Data Stewards (GTEx): Jared Nedzel
     - 11:00 Oxygen: Lucila Onho-Machado - Block chain (10 min + 5 for questions)
     - 11:15 Sodium: Martin Fenner
 	- 11:24 Helium: Ray Idaszak
