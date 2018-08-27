@@ -21,13 +21,13 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 	- 09:38 Copper: Amanda Charbonneau
 	- 09:47 Argon: Rick Wagner
 	- 09:56 Phosphorus: Robert Carter
-	- 10:05 Data Stewards (GTEx):
+	- 10:05 Data Stewards (GTEx): Jared Nedzel
 - 10:30 Coffee break (~20 minutes)	
 	- 10:51 Data Stewards (TOPMed): Ken Rice
     - 11:00 Oxygen: Lucila Onho-Machado - Block chain (10 min + 5 for questions)
     - 11:15 Sodium: Martin Fenner
 	- 11:24 Helium: Ray Idaszak
-	- 11:33 Carbon:
+	- 11:33 Carbon: Paul Avillach
 	- 11:42 Nitrogen: Avi Ma'ayan
 - 12:00 - Lunch (1 hour)         
 - 13:00 - [Day 1 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+%26+%22breakout+session%22)
