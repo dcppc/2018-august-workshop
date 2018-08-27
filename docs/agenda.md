@@ -18,10 +18,11 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 - 09:20 - [Day 1 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/1) 
 ![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)   at <https://zoom.us/j/364678101>. _Each speaker will have 5 minutes to present and 3 minutes for Q&A._
 	- 09:20 Calcium: David Siedzik 
-	- 09:38 Copper: Amanda Charbonneau
-	- 09:47 Argon: Rick Wagner
-	- 09:56 Phosphorus: Robert Carter
-	- 10:05 Data Stewards (TOPMed): Ken Rice 
+	- 09:26 Copper: Amanda Charbonneau
+	- 09:38 Argon: Rick Wagner
+	- 09:47 Phosphorus: Robert Carter
+	- 09:50 Data Stewards (TOPMed): Ken Rice 
+	- 10:00 Sodium: Martin Fenner
 - 10:30 Coffee break (~20 minutes)	
 	- 10:51 Data Stewards (GTEx): Jared Nedzel
     - 11:00 Oxygen: Lucila Onho-Machado - Block chain (10 min + 5 for questions)
