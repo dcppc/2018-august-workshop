@@ -17,7 +17,7 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 - 09:00 - Welcome remarks
 - 09:20 - [Day 1 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/1) 
 ![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)   at <https://zoom.us/j/364678101>. _Each speaker will have 5 minutes to present and 3 minutes for Q&A._
-	- 09:20 Calcium:
+	- 09:20 Calcium: David Siedzik 
 	- 09:29 Data Stewards (AGR):
 	- 09:38 Copper:
 	- 09:47 Argon:
@@ -28,7 +28,7 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 	- 10:51 Data Stewards (TOPMed): Ken Rice
     - 11:00 Oxygen: Lucila re Block chain (10 min + 5 for questions)
     - 11:15 Sodium:
-	- 11:24 Helium: Kira Bradford
+	- 11:24 Helium: Ray Idaszak
 	- 11:33 Carbon:
 	- 11:42 Nitrogen: Avi Ma'ayan
 - 12:00 - Lunch (1 hour)         
@@ -38,7 +38,7 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 	- [Data Commons Communication: Who, how, why, when #9
 ](https://github.com/dcppc/2018-august-workshop/issues/9)
 	- [All things Auth](https://github.com/dcppc/2018-august-workshop/issues/8) ![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)  <https://renci.zoom.us/j/526710112> 
-	- Additional breakout groups	
+	- [Multi-Stack Demo for Oct 16th Breakout](https://github.com/dcppc/2018-august-workshop/issues/18)
 - 16:00 - Breakout session recaps
 - 16:20 - Closing remarks
 - 16:30 - End
@@ -57,7 +57,7 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- 09:19 Sodium:
 	- 09:28 Phosphorus:
 	- 09:37 Data Stewards (TOPMed):
-	- 09:46 Helium: Ray Idaszak
+	- 09:46 Helium: Kira Bradford
 	- 09:55 Argon:
 	- 10:04 Data Stewards (AGR):
 	- 10:13 Nitrogen: Denis Torre
@@ -72,6 +72,7 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 - 13:00 - [Day2 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+%26+%22breakout+session%22+)
 	- [Learn more about TOPMED](https://github.com/dcppc/2018-august-workshop/issues/5)
 	- [KC2: Schema.org/bioschemas with identifiers.org](https://github.com/dcppc/2018-august-workshop/issues/10)
+	- [Multi-Stack Demo for Oct 16th Breakout](https://github.com/dcppc/2018-august-workshop/issues/18)
 	- Additional breakout groups
 - 13:45 - Breakout session recaps
 - 16:05 - [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
@@ -83,8 +84,11 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 Not all breakout groups have been assigned to a day. These include:
 - [KC7: Crosscut Metadata Model Schema and Instances](https://github.com/dcppc/2018-august-workshop/issues/11)
 - [KC1 - FAIR assessment of GTEx and GTEx interface to BioJupies](https://github.com/dcppc/2018-august-workshop/issues/13)
+- [KC1 - Reporting about the Analysis of the FAIRness of >4,000 Published Bioinformatics Tools](https://github.com/dcppc/2018-august-workshop/issues/17)
 - [DOS service for multi-stack compute](https://github.com/dcppc/2018-august-workshop/issues/14)
 - [Full stacks: What data and where?](https://github.com/dcppc/2018-august-workshop/issues/15)
+- [modEnrichr: Prototype Gene Set Enrichment Analysis Tools for MODs](https://github.com/dcppc/2018-august-workshop/issues/16)
+
 
 ### Interview questions with Rebecca Calisi
 
