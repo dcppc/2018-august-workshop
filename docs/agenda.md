@@ -26,7 +26,6 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 - 10:30 Coffee break (~20 minutes)	
 	- 10:51 Data Stewards (GTEx): Jared Nedzel
     - 11:00 Oxygen: Lucila Onho-Machado - Block chain (10 min + 5 for questions)
-    - 11:15 Sodium: Martin Fenner
 	- 11:24 Helium: Ray Idaszak
 	- 11:33 Carbon: Paul Avillach
 	- 11:42 Nitrogen: Avi Ma'ayan
