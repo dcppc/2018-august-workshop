@@ -51,12 +51,12 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 - 09:00: Welcome remarks
 - 09:10: [Day2 Lightning talks](https://github.com/dcppc/2018-august-workshop/issues/2)
 ![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)   at <https://zoom.us/j/364678101>. _Each speaker will have 5 minutes to present and 3 minutes for Q&A._
-	- 09:10 Sodium:
-	- 09:19 Phosphorus: Anup Mahurkar
-	- 09:28 Data Stewards (TOPMed): Albert Smith
-	- 09:37 Helium: Kira Bradford
-	- 09:46 Data Stewards (AGR):
-	- 09:55 Nitrogen: Denis Torre
+	- 09:10 Phosphorus: Anup Mahurkar
+	- 09:19 Data Stewards (TOPMed): Albert Smith
+	- 09:28 Helium: Kira Bradford
+	- 09:37 Data Stewards (AGR):
+	- 09:46 Nitrogen: Denis Torre
+	- 09:55 Argon: Ravi Madduri
 	- 10:04 STRIDES: Nick Webber
 - 10:30 Coffee break
 	- 10:50 Copper: Charles Reid
