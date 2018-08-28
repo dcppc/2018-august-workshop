@@ -72,7 +72,7 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- 11:48 Breakout group planning
 - 12:00 -  Lunch (1 hour)         
 - 13:00 - [Day2 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+%26+%22breakout+session%22+)
-	- [Learn more about TOPMED](https://github.com/dcppc/2018-august-workshop/issues/5)
+	- [Learn more about TOPMED](https://github.com/dcppc/2018-august-workshop/issues/5) ![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)   at <https://washington.zoom.us/j/493561301>
 	- [KC2: Schema.org/bioschemas with identifiers.org](https://github.com/dcppc/2018-august-workshop/issues/10)
 	- [Multi-Stack Demo for Oct 16th Breakout](https://github.com/dcppc/2018-august-workshop/issues/18)
 	- [KC7: Crosscut Metadata Model Schema and Instances](https://github.com/dcppc/2018-august-workshop/issues/11)
