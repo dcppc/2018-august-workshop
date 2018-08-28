@@ -75,7 +75,8 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- [Learn more about TOPMED](https://github.com/dcppc/2018-august-workshop/issues/5)
 	- [KC2: Schema.org/bioschemas with identifiers.org](https://github.com/dcppc/2018-august-workshop/issues/10)
 	- [Multi-Stack Demo for Oct 16th Breakout](https://github.com/dcppc/2018-august-workshop/issues/18)
-	- Additional breakout groups
+	- [KC7: Crosscut Metadata Model Schema and Instances](https://github.com/dcppc/2018-august-workshop/issues/11)
+	- [KC1 - Reporting about the Analysis of the FAIRness of >4,000 Published Bioinformatics Tools](https://github.com/dcppc/2018-august-workshop/issues/17)
 - 13:45 - Breakout session recaps
 - 16:05 - [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
 - 16:15 - Closing remarks
@@ -84,8 +85,6 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 ### Unassigned breakout groups
 
 Not all breakout groups have been assigned to a day. These include:
-- [KC7: Crosscut Metadata Model Schema and Instances](https://github.com/dcppc/2018-august-workshop/issues/11)
-- [KC1 - Reporting about the Analysis of the FAIRness of >4,000 Published Bioinformatics Tools](https://github.com/dcppc/2018-august-workshop/issues/17)
 
 
 ### Interview questions with Rebecca Calisi
