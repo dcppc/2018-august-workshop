@@ -68,8 +68,8 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- 11:19 Oxygen: Hua Xu
 	- 11:26 Data Stewards (GTEx): Jared Nedzel
 	- 11:35 Xenon: Charlotte Whicher
-	- 11:44 Sodium: Martin Fenner
-	- 11:53 Breakout group planning
+	- 11:40 Sodium: Martin Fenner
+	- 11:48 Breakout group planning
 - 12:00 -  Lunch (1 hour)         
 - 13:00 - [Day2 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+%26+%22breakout+session%22+)
 	- [Learn more about TOPMED](https://github.com/dcppc/2018-august-workshop/issues/5)
