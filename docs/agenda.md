@@ -53,8 +53,8 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 ![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)   at <https://zoom.us/j/364678101>. _Each speaker will have 5 minutes to present and 3 minutes for Q&A._
 	- 09:10 Phosphorus: Anup Mahurkar
 	- 09:19 Data Stewards (TOPMed): Albert Smith
-	- 09:28 Helium: Kira Bradford
-	- 09:37 Data Stewards (AGR):
+	- 09:30 Helium: Kira Bradford
+	- 09:37 Data Stewards (AGR): Nathan Dunn
 	- 09:46 Nitrogen: Denis Torre
 	- 09:55 Argon: Ravi Madduri
 	- 10:04 Carbon: Jessica Lyons 
