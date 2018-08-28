@@ -66,7 +66,7 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- 11:00 STRIDES: Nick Webber
 	- 11:08 Calcium: Bob Grossman
 	- 11:19 Oxygen: Hua Xu
-	- 11:26 Data Stewards (GTEx):
+	- 11:26 Data Stewards (GTEx): Jared Nedzel
 	- 11:35 Xenon: Charlotte Whicher
 	- 11:44 Sodium: Martin Fenner
 	- 11:53 Breakout group planning
