@@ -56,8 +56,8 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- 09:30 Helium: Kira Bradford
 	- 09:40 Data Stewards (AGR): Nathan Dunn
 	- 09:49 Nitrogen: Denis Torre
-	- 09:58 Argon: Ravi Madduri
-	- 10:07 Carbon: Jessica Lyons 
+	- 09:55 Argon: Ravi Madduri
+	- 10:00 Carbon: Jessica Lyons 
 	- 10:16 Copper: Charles Reid
 - 10:30 Coffee break
 	- 10:50 STRIDES: Nick Webber
@@ -65,7 +65,8 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- 11:08 Oxygen: Hua Xu
 	- 11:26 Data Stewards (GTEx):
 	- 11:35 Xenon: Charlotte Whicher
-	- 11:44 Breakout group planning
+	- 11:44 Sodium: Martin Fenner
+	- 11:53 Breakout group planning
 - 12:00 -  Lunch (1 hour)         
 - 13:00 - [Day2 Breakout sessions](https://github.com/dcppc/2018-august-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+%26+%22breakout+session%22+)
 	- [Learn more about TOPMED](https://github.com/dcppc/2018-august-workshop/issues/5)
