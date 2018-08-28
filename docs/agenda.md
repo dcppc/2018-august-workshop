@@ -77,10 +77,10 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- [Multi-Stack Demo for Oct 16th Breakout](https://github.com/dcppc/2018-august-workshop/issues/18)
 	- [KC7: Crosscut Metadata Model Schema and Instances](https://github.com/dcppc/2018-august-workshop/issues/11)
 	- [KC1 - Reporting about the Analysis of the FAIRness of >4,000 Published Bioinformatics Tools](https://github.com/dcppc/2018-august-workshop/issues/17)
-- 13:45 - Breakout session recaps
-- 16:05 - [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
-- 16:15 - Closing remarks
-- 16:30 - End
+- 15:30 - Breakout session recaps
+- 15:50 - [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
+- 15:55 - Closing remarks
+- 16:00 - End
 
 ### Unassigned breakout groups
 
