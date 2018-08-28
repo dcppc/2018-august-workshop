@@ -37,6 +37,8 @@ The workshop will take place on the 19th floor of the Equitable building. The li
 ](https://github.com/dcppc/2018-august-workshop/issues/9)
 	- [All things Auth](https://github.com/dcppc/2018-august-workshop/issues/8) ![github](https://img.shields.io/badge/Connect%20-via%20Zoom-blue.svg)  <https://renci.zoom.us/j/526710112> 
 	- [Multi-Stack Demo for Oct 16th Breakout](https://github.com/dcppc/2018-august-workshop/issues/18)
+	- [KC1 - FAIR assessment of GTEx and GTEx interface to BioJupies](https://github.com/dcppc/2018-august-workshop/issues/13)
+- [modEnrichr: Prototype Gene Set Enrichment Analysis Tools for MODs](https://github.com/dcppc/2018-august-workshop/issues/16)
 - 16:00 - Breakout session recaps
 - 16:20 - Closing remarks
 - 16:30 - End
@@ -83,11 +85,7 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 
 Not all breakout groups have been assigned to a day. These include:
 - [KC7: Crosscut Metadata Model Schema and Instances](https://github.com/dcppc/2018-august-workshop/issues/11)
-- [KC1 - FAIR assessment of GTEx and GTEx interface to BioJupies](https://github.com/dcppc/2018-august-workshop/issues/13)
 - [KC1 - Reporting about the Analysis of the FAIRness of >4,000 Published Bioinformatics Tools](https://github.com/dcppc/2018-august-workshop/issues/17)
-- [DOS service for multi-stack compute](https://github.com/dcppc/2018-august-workshop/issues/14)
-- [Full stacks: What data and where?](https://github.com/dcppc/2018-august-workshop/issues/15)
-- [modEnrichr: Prototype Gene Set Enrichment Analysis Tools for MODs](https://github.com/dcppc/2018-august-workshop/issues/16)
 
 
 ### Interview questions with Rebecca Calisi
