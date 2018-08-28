@@ -59,10 +59,11 @@ Group Dinner: _Dinner will be at Fogo de Chao. Stay tuned for details!_
 	- 09:55 Argon: Ravi Madduri
 	- 10:00 Carbon: Jessica Lyons 
 	- 10:16 Copper: Charles Reid
+	- 10:26 Group Photo
 - 10:30 Coffee break
-	- 10:50 STRIDES: Nick Webber
-	- 10:59 Calcium: Bob Grossman
-	- 11:08 Oxygen: Hua Xu
+	- 11:00 STRIDES: Nick Webber
+	- 11:08 Calcium: Bob Grossman
+	- 11:19 Oxygen: Hua Xu
 	- 11:26 Data Stewards (GTEx):
 	- 11:35 Xenon: Charlotte Whicher
 	- 11:44 Sodium: Martin Fenner
